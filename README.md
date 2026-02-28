@@ -89,6 +89,16 @@ Este proyecto permite practicar y reforzar:
 
 ---
 
+## 📸 Capturas del Juego
+
+### 🚀 Nave en acción
+
+![Player](assets/Captura de pantalla 2026-02-27 190511.png)
+![Player](assets/Captura de pantalla 2026-02-27 190546.png)
+![Player](assets/Captura de pantalla 2026-02-27 190556.png)
+
+---
+
 ## 📄 Licencia
 
 Proyecto de uso educativo. Libre para modificar y mejorar.

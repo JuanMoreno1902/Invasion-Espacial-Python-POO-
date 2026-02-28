@@ -93,9 +93,9 @@ Este proyecto permite practicar y reforzar:
 
 ### 🚀 Nave en acción
 
-![Player](assets/Captura de pantalla 2026-02-27 190511.png)
-![Player](assets/Captura de pantalla 2026-02-27 190546.png)
-![Player](assets/Captura de pantalla 2026-02-27 190556.png)
+<img src="assets/Captura de pantalla 2026-02-27 190511.png" width="600">
+<img src="assets/Captura de pantalla 2026-02-27 190546.png" width="600">
+<img src="assets/Captura de pantalla 2026-02-27 190556.png" width="600">
 
 ---
 
